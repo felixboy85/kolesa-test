@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader Test Проверяем что loader на странице 1`] = `[Function]`;
+
+exports[`Loader Test Проверяем что loader не на странице 1`] = `[Function]`;
+
+exports[`Группа тестов Проверяем что div с id app добавлен на страницу в body 1`] = `[Function]`;
+
+exports[`Группа тестов Проверяем что div с id app удален со страницы из body 1`] = `[Function]`;
